@@ -1,5 +1,7 @@
 # Aya Java Library Example
 
+**Add new operators to Aya at runtime**
+
 ## How to use
 
 You can either download the jar from the releases page or build the library yourself (see below)

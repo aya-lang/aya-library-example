@@ -20,6 +20,14 @@ aya> :(example.instruction2)
 aya> 
 ```
 
+You can also use the import statement to load the jar. This will not return the list of loaded operators
+
+```
+aya> import "target/aya-library-example-1.0-SNAPSHOT.jar"
+aya> :(example.instruction)
+"hello, world"
+```
+
 ## Building
 
 ### Install Aya
